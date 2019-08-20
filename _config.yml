@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weiping Song' Homepage"
+title                    : "Weiping Song's Homepage"
 title_separator          : "-"
 name                     : &name "Weiping Song"
 description              : &description "Ph.D. student at Peking University"
