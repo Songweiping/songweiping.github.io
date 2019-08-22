@@ -22,7 +22,7 @@ News
 1. Mar. 2019. We release our codes and datasets on recommender systems at [MilaGraph](https://github.com/DeepGraphLearning/RecommenderSystems).
 1. Oct. 2018. Our paper "Session-based Social Recommendation via Dynamic Graph Attention Networks" was accepted at WSDM'2019.
 1. Spt. 2018. I began my internship at Mila, under the supervision of Prof. Jian Tang.
-1. Feb. 2018. Our team ranked 3rd out of 5.
+1. Feb. 2018. Our team ranked 3rd out of 575 teams in WSDM Cup Challenge, 2018.
 
 Publications
 =====
