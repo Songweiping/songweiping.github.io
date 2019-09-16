@@ -15,7 +15,7 @@ Research interests
 * Recommender Systems
 * Graph Representation Learning
 
-News
+<span style="color:red">News</span>
 =====
 1. Aug. 2019. Our paper "AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks" was accepted at CIKM'2019. 
 1. Jul. 2019. A graph representation learning literature repository was released at [MilaGraph](https://github.com/DeepGraphLearning/LiteratureDL4Graph).
