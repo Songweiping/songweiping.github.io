@@ -17,6 +17,7 @@ Research interests
 
 <span style="color:red">News</span>
 =====
+1. Dec. 2019. I joined Huawei Noah's Ark Lab as a research intern, working on graph representation leanring and recommender systems, under supervision of [Dr. Changying Du](changyingdu.github.io).
 1. Aug. 2019. Our paper "AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks" was accepted at CIKM'2019. 
 1. Jul. 2019. A graph representation learning literature repository was released at [MilaGraph](https://github.com/DeepGraphLearning/LiteratureDL4Graph).
 1. Mar. 2019. We release our codes and datasets on recommender systems at [MilaGraph](https://github.com/DeepGraphLearning/RecommenderSystems).
