@@ -17,7 +17,7 @@ Research interests
 
 <span style="color:red">News</span>
 =====
-1. May 2020. Our paper "TIMME: Twitter Idelogy-detection via Multi-task Multi-relational Embedding" was accepted by KDD'2020.
+1. May 2020. Our paper "TIMME: Twitter Idelogy-detection via Multi-task Multi-relational Embedding" was accepted by KDD'2020 with ORAL presentation.
 1. Dec. 2019. I joined Huawei Noah's Ark Lab as a research intern, working on graph representation leanring and recommender systems, under the supervision of [Dr. Changying Du](https://changyingdu.github.io).
 1. Aug. 2019. Our paper "AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks" was accepted by CIKM'2019. 
 1. Jul. 2019. A graph representation learning literature repository was released at [MilaGraph](https://github.com/DeepGraphLearning/LiteratureDL4Graph).
@@ -28,7 +28,7 @@ Research interests
 
 Publications
 =====
-* Zhiping Xiao, Weiping Song, Haoyan Xu, Zhicheng Ren and Yizhou Sun. TIMME: Twitter Idelogy-detection via Multi-task Multi-relational Embedding. To appear at KDD'2020.
+* Zhiping Xiao, Weiping Song, Haoyan Xu, Zhicheng Ren and Yizhou Sun. [TIMME: Twitter Idelogy-detection via Multi-task Multi-relational Embedding](https://arxiv.org/pdf/2006.01321.pdf). To appear at KDD'2020.
 * Weiping Song, Chence Shi, Zhiping Xiao, Zhijian Duan, Yewen Xu, Ming Zhang and Jian Tang. [AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks](https://arxiv.org/pdf/1810.11921.pdf). CIKM'2019.
 * Weiping Song, Zhijian Duan, Ziqing Yang, Hao Zhu, Ming Zhang and Jian Tang. [Explainable Knowledge Graph-based Recommendation via Deep Reinforcement Learning](https://arxiv.org/pdf/1906.09506.pdf). arXiv'2019.
 * Weiping Song, Zhiping Xiao, Yifan Wang, Laurent Charlin, Ming Zhang and Jian Tang. [Session-based Social Recommendation via Dynamic Graph Attention Networks](https://arxiv.org/pdf/1902.09362.pdf). WSDM'2019.
