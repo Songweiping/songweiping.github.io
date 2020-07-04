@@ -9,6 +9,8 @@ redirect_from:
 
 Since Sept. 2016, I'm pursuing my Ph.D. degree in Computer Science at Peking University, under the supervision of Prof. [Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/). I have also been closely working with Prof. [Jian Tang](https://jian-tang.com/), who is my supervior at [Mila](https://mila.quebec/en/) during Sept. 2018 - Sept. 2019.
 
+<span stype="color:red">I'm on job market now! If you are interested in me, contact me via firstname.lastname@pku.edu.cn</span>
+
 Research interests
 ======
 * Deep Learning, Data Mining
@@ -33,3 +35,6 @@ Publications
 * Weiping Song, Zhijian Duan, Ziqing Yang, Hao Zhu, Ming Zhang and Jian Tang. [Explainable Knowledge Graph-based Recommendation via Deep Reinforcement Learning](https://arxiv.org/pdf/1906.09506.pdf). arXiv'2019.
 * Weiping Song, Zhiping Xiao, Yifan Wang, Laurent Charlin, Ming Zhang and Jian Tang. [Session-based Social Recommendation via Dynamic Graph Attention Networks](https://arxiv.org/pdf/1902.09362.pdf). WSDM'2019.
 
+Services
+=====
+* Reviewer: Transactions on Knowledge and Data Engineering (TKDE)
