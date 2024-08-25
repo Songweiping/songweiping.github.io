@@ -7,15 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Since Sept. 2016, I'm pursuing my Ph.D. degree in Computer Science at Peking University, under the supervision of Prof. [Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/). I have also been closely working with Prof. [Jian Tang](https://jian-tang.com/), who is my supervior at [Mila](https://mila.quebec/en/) during Sept. 2018 - Sept. 2019.
+I'm a quantitative researcher at [Ubiquant](https://ubiquant.com/website/about), one of China's leading private quant firms, managing over 55 billion RMB. Before my industrial career, I completed my PhD in Computer Science at Peking University, under the supervision of Prof. [Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/) in 2021. I worked with Prof. [Jian Tang](https://jian-tang.com/) at [Mila](https://mila.quebec/en/) during Sept. 2018 - Sept. 2019.
 
-<span style="color:red">I'm on job market now! If you are interested in me, contact me via firstname.lastname@pku.edu.cn</span>
+
+Hiring
+=====
+I'm actively looking for highly motivated and talented individuals to join our team as interns or full-time quantitative researchers. Candidates who have strong background in deep learning, NLP, CV or quantitative analysis can email me directly. 
+
 
 Research interests
 ======
 * Deep Learning, Data Mining
-* Recommender Systems
-* Graph Representation Learning
+* Quantitative models and algorithms
 
 <span style="color:red">News</span>
 =====
